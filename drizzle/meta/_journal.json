@@ -1,0 +1,111 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1770003857029,
+      "tag": "0000_concerned_marvel_boy",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1770004002766,
+      "tag": "0001_chief_fantastic_four",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1772915057304,
+      "tag": "0002_great_malcolm_colcord",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1772952532149,
+      "tag": "0003_complex_centennial",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1774247925538,
+      "tag": "0004_spooky_salo",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1774249276080,
+      "tag": "0005_breezy_angel",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1774249335233,
+      "tag": "0006_fixed_absorbing_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1774299999935,
+      "tag": "0007_furry_falcon",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1774375063145,
+      "tag": "0008_fearless_dreadnoughts",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1778976000000,
+      "tag": "0009_dex_integration",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1778976060000,
+      "tag": "0010_partial_failure_recovery",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "5",
+      "when": 1778976120000,
+      "tag": "0011_recommendation_bot",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "5",
+      "when": 1778232358501,
+      "tag": "0012_slippery_puppet_master",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "5",
+      "when": 1778315944862,
+      "tag": "0013_overrated_rhino",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "5",
+      "when": 1779880782361,
+      "tag": "0014_even_black_knight",
+      "breakpoints": true
+    }
+  ]
+}
